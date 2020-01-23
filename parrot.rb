@@ -2,7 +2,8 @@
 # returns the phrase
 
 def method (parrot= pretty bird , bird = noise )
+  phrase = squawk
   puts ("the sound is a #{parrot}")
-  return squawk! 
+  return squawk 
 
 end
