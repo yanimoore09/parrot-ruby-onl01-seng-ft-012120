@@ -2,10 +2,9 @@
 # returns the phrase
 
 
-def parrot_noise = name , parrot
-  phrase = "parrot"
-  puts "the weird noise is from the #{phrase}"
-  return "squawk"
-  "parrot"
-
+def parrot(name)
+  phrase = #{name}
+  puts "the noise from the #{name}"
+  return squawk
+  
 end
