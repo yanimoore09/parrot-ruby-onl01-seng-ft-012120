@@ -2,6 +2,8 @@
 # returns the phrase
 
 
-def some_method(squawk, c=25)
-
+def something_talk
+  weird_noise = "parrot"
+  return "squawk"
+  "parrot"
 end
