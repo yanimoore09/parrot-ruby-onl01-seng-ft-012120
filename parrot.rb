@@ -2,7 +2,7 @@
 # returns the phrase
 
 
-def parrot_noise
+def parrot_noise = name , parrot
   phrase = "parrot"
   puts "the weird noise is from the #{phrase}"
   return "squawk"
