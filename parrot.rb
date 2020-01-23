@@ -2,8 +2,3 @@
 # returns the phrase
 
 
-def parrot(name, parrot)
-  phrase = parrot ("pretty bird")
-  return squawk
-  
-end
